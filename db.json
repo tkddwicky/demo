@@ -1,0 +1,77 @@
+{ 
+    "CyptoData" : [
+        {   
+            "rank": 1,
+            "pastRank": 3,
+            "coinName": "Bitcon(BTC)",
+            "coinPrice": "60,3524.55",
+            "votingDominance": 4
+        },
+        {
+            "rank": 2,
+            "pastRank": 5,
+            "coinName": "Ethereum(ETC)",
+            "coinPrice": "46,552.23",
+            "votingDominance": 5
+        },
+        {
+            "rank": 3,
+            "pastRank": 1,
+            "coinName": "Binance Coin(BNB)",
+            "coinPrice": "344.15",
+            "votingDominance": 3
+        },
+        {
+            "rank": 4,
+            "pastRank": 3,
+            "coinName": "Dogecoin(DOGE)",
+            "coinPrice": "0.2345",
+            "votingDominance": 5
+        },
+        {
+            "rank": 5,
+            "pastRank": 10,
+            "coinName": "Shiba Inu(SHIB)",
+            "coinPrice": "0.164",
+            "votingDominance": 2
+        },
+        {
+            "rank": 6,
+            "pastRank": 13,
+            "coinName": "Solana(SOL)",
+            "coinPrice": "542.21",
+            "votingDominance": 4
+        },
+        {
+            "rank": 7,
+            "pastRank": 16,
+            "coinName": "Cardono(ADA)",
+            "coinPrice": "2.45",
+            "votingDominance": 5
+        },
+        {
+            "rank": 8,
+            "pastRank": 24,
+            "coinName": "Palkadot(DOT)",
+            "coinPrice": "13.547",
+            "votingDominance": 2
+        },
+        {
+            "rank": 9,
+            "pastRank": 9,
+            "coinName": "XRP(XRP)",
+            "coinPrice": "0.26",
+            "votingDominance": 4
+        },
+        {
+            "rank": 10,
+            "pastRank": 11,
+            "coinName": "Avalanche(AVAX)",
+            "coinPrice": "24.68",
+            "votingDominance": 1
+        }
+    ],
+    "MyCoins": {
+        "mycoin": 50
+    }   
+}
